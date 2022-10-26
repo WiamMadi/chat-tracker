@@ -1,0 +1,19 @@
+{
+  "name": "chat-tracker",
+  "version": "1.0.0",
+  "description": "A Minecraft bot to track the chat data of Hypixel's ML1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WiamMadi/chat-tracker.git"
+  },
+  "author": "Wiam Madi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WiamMadi/chat-tracker/issues"
+  },
+  "homepage": "https://github.com/WiamMadi/chat-tracker#readme"
+}

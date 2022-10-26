@@ -18,6 +18,7 @@
   "homepage": "https://github.com/WiamMadi/chat-tracker#readme",
   "dependencies": {
     "dotenv": "^16.0.3",
+    "eslint": "^8.26.0",
     "mineflayer": "^4.5.1"
   }
 }

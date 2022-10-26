@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/WiamMadi/chat-tracker/issues"
   },
-  "homepage": "https://github.com/WiamMadi/chat-tracker#readme"
+  "homepage": "https://github.com/WiamMadi/chat-tracker#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mineflayer": "^4.5.1"
+  }
 }
